@@ -27,6 +27,15 @@ To learn how to contribute to this project, read [CONTRIBUTING.md](docs/contribu
 The code is released with Apache 2.0 License [LICENSE.txt](LICENSE) and the data is released with CC-BY-4.0 License [CC-BY-4.0](data/CC-BY-4.0).
 
  ```
+@inproceedings{aggarwal2026videos,
+  author    = {Aggarwal, Lavisha and Bahirwani, Vikas and Colaco, Andrea},
+  title     = {From Videos to Conversations: Egocentric Instructions for Task Assistance},
+  booktitle = {International Conference on Pattern Recognition},
+  pages     = {463--478},
+  publisher = {Springer Nature Switzerland},
+  year      = {2026},
+}
+
 @article{laggarwal2025howtodiv,
   author    = {Aggarwal, Lavisha and Bahirwani, Vikas and Li, Lin and Colaco, Andrea},
   title     = {Generating Dialogues from Egocentric Instructional Videos for Task Assistance: Dataset, Method and Benchmark},
